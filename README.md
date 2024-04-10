@@ -1,1 +1,9 @@
 # B_Raman
+
+B-Raman is an open-source Raman spectroscopy platform created to provide researchers with access to a versatile and powerful analytical tool that they can use to conduct their own experiments. Our open-source platform is designed to be accessible and more affordable than commercial equipment to democratize access to high-end Raman spectroscopy equipment and enable researchers to conduct high-quality research with significantly fewer resources. It can be used for a variety of non-destructive analysis and characterization tasks, making it a valuable resource in a wide range of scientific fields, from material science to biology and chemistry.
+
+The B-Raman platform is designed to be easy to use and highly versatile so that researchers can use it for a wide range of applications. It features both bright-field and spontaneous Raman microscopy. Using the control software (Python), users can control the sample position and spectrometer to collect and analyze data and visualize their results. Using the control software, automated sample analysis protocols can be easily designed to match the needs of each researcher. Moreover, the platform is compatible with a range of sample types, including liquids, solids, and gases, making it suitable for a wide range of applications.
+
+Whether you’re a seasoned researcher or looking to start your journey in Raman spectroscopy, we believe that our B-Raman spectroscopy platform is ideal for you. With its versatile functionality and powerful analytical capabilities, our platform can be made to meet all your research and educational needs.
+
+On this page, we provide support and resources to help researchers replicate and get the most out of our platform, including a detailed description of the assembly process and all the source code required to control it. Enjoy!

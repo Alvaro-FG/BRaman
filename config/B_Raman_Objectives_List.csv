@@ -1,0 +1,15 @@
+Name,Maker,Magnification,NA,WD,Immersion,Spot_Size,Tube_Lens_Design
+UPlanFl,OLYMPUS,40,0.75,0.51,Air,,180
+HC APO L 63x/0.90 W U-V-I,LEICA,63,0.9,2.2,Water,,200
+CFI Apo NIR 60X W,NIKON,60,1,2.8,Water,,200
+N PLAN 100x/0.90,LEICA,100,0.9,0.27,Air,,200
+N PLAN 10x/0.25,LEICA,10,0.25,5.8,Air,80,200
+N PLAN 10x/0.25_2,LEICA,10,0.25,17.7,Air,,200
+EC Epiplan 20x/0.4,ZEISS,20,0.4,3.2,Air,,165
+EC Epiplan 50x/0.75 HD,ZEISS,50,0.75,1,Air,,165
+LD Plan-NEOFLUAR 63X/0.75 Korr,ZEISS,63,0.75,1.7,Air,,165
+LD EC Epiplan-NEOFLUAR 100x/0.75 HD DIC,ZEISS,100,0.75,4.1,Air,,165
+EC Epiplan 10x/0.25 HD,ZEISS,10,0.25,11,Air,,165
+"W ""Plan-Apochromat"" 63x/1.0",ZEISS,63,1,2.1,Water,,165
+"W ""N-Achroplan"" 20x/0.5",ZEISS,20,0.5,2.6,Water,,165
+"W ""N-Achroplan"" 10x/0.3 M27",ZEISS,10,0.3,2.6,Water,,165

@@ -1,0 +1,16 @@
+{
+    "exc_wl_nm": 785,
+    "exc_power_mW": 14,
+    "objective": "N PLAN 10x/0.25",
+    "tube_lens": "WFA4100",
+    "z_stage": {
+        "stage_name": "ZFM2020",
+        "controller_name": "MCM3000",
+        "port": "COM3",
+        "channel": 1, 
+        "reverse": false,
+        "verbose": true, 
+        "very_verbose": false
+      }
+  }
+  
